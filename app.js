@@ -15,7 +15,7 @@ prompt.get(['user', 'filename', 'file_extension', 'description', 'content', 'dir
         }
         else {
             console.log("*");
-            console.log("A file named " + result.filename + ",\nwas created by user " + result.user + ",\nat " + new Date().toString() + ".");
+            console.log("A file named " + result.filename + ",\nwas created by user " + result.user + ",\non " + new Date().toString() + ".");
             console.log("DETAILS:");
             console.log("Description:");
             console.log(result.description);            
