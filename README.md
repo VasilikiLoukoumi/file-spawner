@@ -7,6 +7,6 @@ To run
 2) Open cmd and change directory to the directory of the app.
 3) Type node app
       or
-      type npm install -g nodemon
+      type npm install -g nodemon and
       then type nodemon app
       
